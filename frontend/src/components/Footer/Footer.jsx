@@ -20,7 +20,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-content-center">
-          <h2>CCOMPANY</h2>
+          <h2>COMPANY</h2>
           <ul>
             <li>Home</li>
             <li>About us</li>
