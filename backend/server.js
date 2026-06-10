@@ -18,7 +18,7 @@ app.use(
   cors({
     origin: [
       "https://food-delivery-website-2533.onrender.com",
-      " https://admin-food-delivery.onrender.com",
+      "https://admin-food-delivery.onrender.com",
     ],
     credentials: true,
   }),
